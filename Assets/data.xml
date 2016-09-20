@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program>
+  <Building>
+    <Name ID="A02_jz_cctv">
+      <BuiltName>央视大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>2000.625平方米</Space>
+      <Height>110米</Height>
+      <Frame>3.11%</Frame>
+    </Name>
+    <Name ID="A02_jz_hxq">
+      <BuiltName>核心区</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1600.625平方米</Space>
+      <Height>170米</Height>
+      <Frame>1.11%</Frame>
+    </Name>
+    <Name ID="cctv">
+      <BuiltName>央视大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1111.625平方米</Space>
+      <Height>87米</Height>
+      <Frame>4.11%</Frame>
+    </Name>
+    <Name ID="住总集团">
+      <BuiltName>住总集团</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1103.625平方米</Space>
+      <Height>70米</Height>
+      <Frame>1.11%</Frame>
+    </Name>
+    <Name ID="嘉里中心01">
+      <BuiltName>嘉里中心</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1093.625平方米</Space>
+      <Height>117米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="嘉里中心02">
+      <BuiltName>嘉里中心</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1093.625平方米</Space>
+      <Height>117米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸三期裙楼01">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸三期裙楼02">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸主楼">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸公寓">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸楼板">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="国贸裙楼02">
+      <BuiltName>国贸大厦</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>3093.625平方米</Space>
+      <Height>211米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+    <Name ID="旺座中心">
+      <BuiltName>旺座中心</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>893.625平方米</Space>
+      <Height>89米</Height>
+      <Frame>4.11%</Frame>
+    </Name>
+    <Name ID="财富中心">
+      <BuiltName>财富中心</BuiltName>
+      <Style>办公写字楼</Style>
+      <Space>1111.625平方米</Space>
+      <Height>107米</Height>
+      <Frame>2.11%</Frame>
+    </Name>
+  </Building>
+  <Jizhan>
+    <Name ID="jizhanOne">
+      <BuiltName>洛克大厦基站</BuiltName>
+      <Zhishi>GSM900/DCS1800</Zhishi>
+      <Peizhi>S2/1/2</Peizhi>
+      <CELL>洛克大厦-1</CELL>
+      <LAC>34104</LAC>
+      <CI>27991</CI>
+      <BSIC>72</BSIC>
+      <shang>35</shang>
+      <xia>25</xia>
+    </Name>
+    <Name ID="jizhanTwo">
+      <BuiltName>国贸大厦基站</BuiltName>
+      <Zhishi>GSM900/DCS1800</Zhishi>
+      <Peizhi>S2/1/2</Peizhi>
+      <CELL>国贸大厦-1</CELL>
+      <LAC>34604</LAC>
+      <CI>27991</CI>
+      <BSIC>72</BSIC>
+      <shang>55</shang>
+      <xia>25</xia>
+    </Name>
+    <Name ID="jizhanThree">
+      <BuiltName>嘉丽大厦基站</BuiltName>
+      <Zhishi>GSM900/DCS1800</Zhishi>
+      <Peizhi>S2/1/2</Peizhi>
+      <CELL>嘉丽大厦-1</CELL>
+      <LAC>34604</LAC>
+      <CI>27991</CI>
+      <BSIC>72</BSIC>
+      <shang>35</shang>
+      <xia>15</xia>
+    </Name>
+  </Jizhan>
+</Program>
